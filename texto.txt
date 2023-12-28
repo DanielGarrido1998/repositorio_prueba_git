@@ -1,4 +1,11 @@
 "git clone" (+ el url del repositorio):  para clonar el repositorio en la carpeta
+
 "git add" <nombre del archivo> o puedes usar un punto <.> para añadir todos los archivos
+
 "git status": te proporciona información sobre cambios pendientes, archivos modificados, archivos nuevos y otros detalles relacionados con el estado de tu repositorio.
+
 "git diff" : te muestra lo modificado
+
+"git commit (-m "comentario"):
+
+"git push" :para enviarlo al repositorio, luego de esto pedirá nombre de usuario y password
