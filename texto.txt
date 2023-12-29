@@ -16,3 +16,5 @@
 
 "git checkout <nombre de la rama>" : se cambia a la rama mencionada
 
+"git merge <nombre de la rama a traer>" : este comando se hace desde la rama a la cual se quiere traer  la segunda rama 
+
