@@ -9,3 +9,10 @@
 "git commit (-m "comentario"):
 
 "git push" :para enviarlo al repositorio, luego de esto pedirá nombre de usuario y password
+
+"git branch" :  me muestra todas las ramas
+
+"git branch <nombre de la nueva rama>" : me crea localmente una rama
+
+"git checkout <nombre de la rama>" : se cambia a la rama mencionada
+
